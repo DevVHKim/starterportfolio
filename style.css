@@ -1,0 +1,53 @@
+/* font-family: 'Libre Baskerville', serif; --for */
+.container{
+    display: grid;
+    gap: 10px;
+}
+
+#serif{
+    font-family: 'Libre Baskerville', serif;
+}
+
+p span{
+    font-family: 'Montserrat', sans-serif;
+    color: #004AAD;
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+
+    color: #004AAD;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;  
+}
+
+h2{
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: 13;
+    font-size: 1.7rem;
+}
+
+h5{
+    color: #004AAD;
+}
+
+.nav-item a{
+    font-weight: bold;
+    color: #004AAD;
+    
+}
+
+#linkedin{
+    text-decoration: none;
+    color: black;
+}
+
+@media (max-width: 576px){
+    #shapes{
+        height: 75px;
+    }
+    
+    }
+
